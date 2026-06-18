@@ -39,6 +39,8 @@ public class ErrorValidationTest extends BaseTest {
 
 		Assert.assertFalse(match);
 		System.out.println(match);
+		System.out.println("match1");
+		System.out.println("match2");
 
 	}
 
